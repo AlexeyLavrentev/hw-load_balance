@@ -8,9 +8,7 @@
 ### Выполнение:
 
 <img width="705" height="884" alt="Screenshot_1" src="https://github.com/user-attachments/assets/5b349458-39f7-4a96-841b-71a760c7cce5" />
-
 <img width="286" height="144" alt="Screenshot_2" src="https://github.com/user-attachments/assets/8f68f02b-abc9-4fc2-aee5-eca4ff7b3e18" />
-
 <img width="272" height="150" alt="Screenshot_3" src="https://github.com/user-attachments/assets/69102287-a702-4c51-8070-c56246a401b7" />
 
 ## Задание 2
