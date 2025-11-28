@@ -16,3 +16,9 @@
 Настройте балансировку Weighted Round Robin на 7 уровне, чтобы первый сервер имел вес 2, второй - 3, а третий - 4
 HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
 На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
+
+### Выполнение:
+
+<img width="1348" height="902" alt="Screenshot_4" src="https://github.com/user-attachments/assets/14016aaf-7a7e-47d3-bf2f-00e55a0701b2" />
+
+<img width="443" height="125" alt="Screenshot_5" src="https://github.com/user-attachments/assets/78da281e-87ae-4205-97e2-fc2c6c395037" />
