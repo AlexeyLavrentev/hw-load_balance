@@ -23,11 +23,8 @@ HAproxy должен балансировать только тот http-тра�
 - на скриншоте видно ответы от разных серверов и статус 403 
 - <img width="591" height="456" alt="Screenshot_9" src="https://github.com/user-attachments/assets/332ea0af-8304-4331-bbfc-20a4f12bc82b" />
 - настройка в файле hosts хостовой машины:
-- <img width="269" height="22" alt="Screenshot_7" src="https://github.com/user-attachments/assets/2fc55ffd-e3ed-42b6-b39b-7d1ef07ce24f" />
-- 
+- <img width="269" height="22" alt="Screenshot_7" src="https://github.com/user-attachments/assets/2fc55ffd-e3ed-42b6-b39b-7d1ef07ce24f" /> 
 -  запрос на доменное имя:
 - <img width="443" height="125" alt="Screenshot_5" src="https://github.com/user-attachments/assets/ec0b9c54-4e5c-41df-b05c-78550619839a" />
 - запрос на ip адрес
 - <img width="444" height="183" alt="Screenshot_6" src="https://github.com/user-attachments/assets/f6b1c312-3d32-490e-b371-19a1d67e1c33" />
-- <img width="1348" height="902" alt="Screenshot_4" src="https://github.com/user-attachments/assets/14016aaf-7a7e-47d3-bf2f-00e55a0701b2" />
-- <img width="443" height="125" alt="Screenshot_5" src="https://github.com/user-attachments/assets/78da281e-87ae-4205-97e2-fc2c6c395037" />
